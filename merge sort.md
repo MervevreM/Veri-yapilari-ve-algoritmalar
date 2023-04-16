@@ -37,6 +37,6 @@ birleştirmek için 8 büyük mü küçük mü diye kontrol ettik. 8 12'den kü�
       
       
 ## Big-O gösterimi
-Her adımda O(n) kadar işlem yapıyoruz
-Adımlarda verileri ikiye bölerek ilerlediğimiz için 2^x = n  --> O(logn)
-Big-O ---> O(n). O(logn)  ---> O(nlogn)
++ Her adımda O(n) kadar işlem yapıyoruz
++ Adımlarda verileri ikiye bölerek ilerlediğimiz için 2^x = n  --> O(logn)
++ Big-O ---> O(n). O(logn)  ---> O(nlogn)
